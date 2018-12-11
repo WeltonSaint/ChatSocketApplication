@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Chat Socket</string>
+    <string name="hint_type_message">Type a Message</string>
+    <string name="hint_type_message_private">Type a Private Message</string>
+    <string name="red">#FF0000</string>
+    <string name="green">#008000</string>
+    <string name="blue">#0000FF</string>
+    <string name="magenta">#FF00FF</string>
+    <string name="purple">#800080</string>
+    <string name="plum">#DDA0DD</string>
+    <string name="orange">#FFA500</string>
+    <string name="loginDialogTitle">Enter name</string>
+    <string name="user_name_hint">Enter your name here</string>
+    <string name="chatting_as" formatted="false">Chatting as %s</string>
+    <string name="lbl_cancel">Cancel</string>
+    <string name="lbl_join">Join Chat</string>
+    <string name="logoff">Logoff</string>
+    <string name="users_online">Users Online</string>
+    <string name="error_empty_user_name">Empty user name</string>
+    <string name="lbl_ok">OK</string>
+    <string name="api_host">http://calm-sea-40200.herokuapp.com</string>
+    <string name="socket_host">ws://calm-sea-40200.herokuapp.com</string>
+    <string name="private_message_tag">PRIVATE_MESSAGE</string>
+    <string name="message_tag">MESSAGE</string>
+    <string name="private_image_tag">PRIVATE_IMAGE</string>
+    <string name="image_tag">IMAGE</string>
+    <string name="connect_tag">CONNECT</string>
+    <string name="disconnect_tag">DISCONNECT</string>
+    <string name="title_home">Main Chat</string>
+    <string name="title_private_chat">Private Chat</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="private_chat">Private Chat</string>
+    <string name="main_chat">Main Chat</string>
+    <string name="hint_search_user">Search a online user</string>
+    <string name="no_internet_connectivity">No connection detected</string>
+    <string name="choose_your_option">Choose your option</string>
+    <string name="image_sended">Image sended</string>
+    <string name="exists_user" formatted="false">Exists a user with name \"%s\"!</string>
+</resources>
